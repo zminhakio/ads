@@ -56,11 +56,11 @@ Compiled by minhakio  v1.0.0
 /videojs.ima.js$domain=~jut.su|~earthcam.com
 ||dinhvu.pro/chillhay1.js
 ||tvphim.day^*.gif
-||154.82.109.135/22603.html
-||kuwin01.com
-||fb88vui.com
-||phycologia.org
-||8858806.com
+||154.82.109.135/22603.html^*.gif
+||kuwin01.com^*.gif
+||fb88vui.com^*.gif
+||phycologia.org^*.gif
+||8858806.com^*.gif
 ||123nhadatviet.com/Media/CK/banners/
 ||123nhadatviet.net/Media/CK/banners/
 ||2banh.vn/images/banners/
