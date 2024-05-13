@@ -364,6 +364,7 @@ Compiled by minhakio  v1.0.0
 ||xenosmussal.com^
 ||xszpuvwr7.com^
 ||zaloweb.vn^
+||api.anime3s.com^
 !---------------Element Hiding--------------
 ###ads-preload
 ###banner-top
