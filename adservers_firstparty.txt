@@ -1,4 +1,4 @@
 ||api.anime3s.com^
 ||img.anime47.vip^
 ||qph.cf2.quoracdn.net^
-||ads.starzd.com
+||ads.starzd.com^
