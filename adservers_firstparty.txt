@@ -2,5 +2,4 @@
 ||img.anime47.vip^
 ||qph.cf2.quoracdn.net^
 ||ads.starzd.com^
-tvhayk.org ## div[class$="container"]$important
-tvhayk.org ## div[catfish-bottom-desktop catfish-bottom"]$important
+
