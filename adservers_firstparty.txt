@@ -3,3 +3,4 @@
 ||qph.cf2.quoracdn.net^
 ||ads.starzd.com^
 tvhayk.org ## div[class$="container"]
+tvhayk.org ## div[catfish-bottom-desktop catfish-bottom"]
