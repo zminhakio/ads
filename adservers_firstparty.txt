@@ -2,4 +2,11 @@
 ||img.anime47.vip^
 ||qph.cf2.quoracdn.net^
 ||ads.starzd.com^
+||lh3.googleusercontent.com^
+||img.clgt.link^$important
+||sso.qhkt.hanoi.gov.vn^$important
+@@||tvhayk.org^$important
+||bf.333xbet.com^$important
+||i.imgur.com^$important
+||imgur.com^$important
 
