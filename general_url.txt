@@ -11,4 +11,4 @@
 /aff_c?*offer_id=*&aff_id=
 /aff_r?*offer_id=*&aff_id=
 
-||tvphim.day/ads/vn88/
+||tvphim.day/ads/vn88/900x90n.gif
