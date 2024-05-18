@@ -1,1 +1,14 @@
+!
+! Phần này chứa danh sách các quy tắc chặn chung (trang web hoặc ứng dụng dành cho thiết bị di động).
+!
+! Tốt: .org/ads/
+! Xấu: .org/ads/$domain=example.org (ví dụ: phải ở dạng speficic.txt)
+!
+!
+||s.*.com/pp.php?uid=$third-party
+.cn/?ss=
+/adfurikun/*
+/aff_c?*offer_id=*&aff_id=
+/aff_r?*offer_id=*&aff_id=
 
+||tvphim.day/ads/vn88/
